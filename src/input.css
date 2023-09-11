@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.text-red-rgb{
+    color:rgb(251, 0, 79) ;
+}
+
+.text-footer-rgb{
+    color: #ffb700;
+}
